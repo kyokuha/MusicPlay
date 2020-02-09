@@ -19,9 +19,9 @@
 		912FAECB239C850100DC0007 /* Static.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 912FAEC7239C850100DC0007 /* Static.xcassets */; };
 		912FAECD239C9D3E00DC0007 /* PromotionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912FAECC239C9D3E00DC0007 /* PromotionCell.swift */; };
 		912FAECF239C9E4E00DC0007 /* MusincViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912FAECE239C9E4E00DC0007 /* MusincViewController.swift */; };
-		913A8AE723EE6818007A2C90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 913A8AE623EE6818007A2C90 /* Assets.xcassets */; };
 		917F356323CAB108008793AC /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917F356223CAB108008793AC /* Album.swift */; };
 		917F356723CACEF1008793AC /* AlbumVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 917F356623CACEF1008793AC /* AlbumVC.swift */; };
+		918CDBF623EFDBEA00712D65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 918CDBF523EFDBEA00712D65 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +39,9 @@
 		912FAEC7239C850100DC0007 /* Static.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Static.xcassets; sourceTree = "<group>"; };
 		912FAECC239C9D3E00DC0007 /* PromotionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromotionCell.swift; sourceTree = "<group>"; };
 		912FAECE239C9E4E00DC0007 /* MusincViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusincViewController.swift; sourceTree = "<group>"; };
-		913A8AE623EE6818007A2C90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../MusicPlay/MusicPlay/Assets.xcassets; sourceTree = "<group>"; };
 		917F356223CAB108008793AC /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 		917F356623CACEF1008793AC /* AlbumVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumVC.swift; sourceTree = "<group>"; };
+		918CDBF523EFDBEA00712D65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +82,7 @@
 				912FAEC5239C850100DC0007 /* albums.json */,
 				917F356223CAB108008793AC /* Album.swift */,
 				912FAEC4239C850100DC0007 /* Godknows.flac */,
-				913A8AE623EE6818007A2C90 /* Assets.xcassets */,
+				918CDBF523EFDBEA00712D65 /* Assets.xcassets */,
 				912FAEC7239C850100DC0007 /* Static.xcassets */,
 				912FAEB6239C7FFC00DC0007 /* Main.storyboard */,
 				912FAEBB239C7FFE00DC0007 /* LaunchScreen.storyboard */,
@@ -180,7 +180,7 @@
 				912FAECB239C850100DC0007 /* Static.xcassets in Resources */,
 				912FAEC8239C850100DC0007 /* Godknows.flac in Resources */,
 				912FAEB8239C7FFC00DC0007 /* Main.storyboard in Resources */,
-				913A8AE723EE6818007A2C90 /* Assets.xcassets in Resources */,
+				918CDBF623EFDBEA00712D65 /* Assets.xcassets in Resources */,
 				912FAEC9239C850100DC0007 /* albums.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
